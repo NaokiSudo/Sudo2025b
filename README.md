@@ -14,7 +14,5 @@ kaken2025new.csv: experimental data
 
 The SSP2022 data is available upon request to the SSP Project (http://ssp.hus.osaka-u.ac.jp/). 
 
-References
-
 Sudo, Naoki. 2025. ``Subjective, Intersubjective, and Objective Social Statuses: How do People Imagine Social Inequality?'',
 SSM - Population Health, in press, https://doi.org/10.1016/j.ssmph.2025.101878.
